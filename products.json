@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "Dry Fruit Laddu",
+    "price": 320,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Sweets"
+  },
+  {
+    "id": 2,
+    "name": "Wheat Flour Bellam Guvvalu",
+    "price": 160,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Sweets"
+  },
+  {
+    "id": 3,
+    "name": "Sunnundalu",
+    "price": 200,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Sweets"
+  },
+  {
+    "id": 4,
+    "name": "Ravva Laddu",
+    "price": 150,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Sweets"
+  },
+  {
+    "id": 5,
+    "name": "Kajjikayalu",
+    "price": 340,
+    "weight": 500,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Sweets"
+  },
+  {
+    "id": 6,
+    "name": "Banana chips",
+    "price": 200,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Snacks"
+  },
+  {
+    "id": 7,
+    "name": "Chekkalu",
+    "price": 130,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Snacks"4
+  },
+  {
+    "id": 8,
+    "name": "Chakralu/murukulu",
+    "price": 130,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Snacks"
+  },
+  {
+    "id": 9,
+    "name": "Karam Boondi",
+    "price": 150,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Snacks"
+  },
+  {
+    "id": 10,
+    "name": "Ribbon pakoda",
+    "price": 150,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Snacks"
+  },
+  {
+    "id": 11,
+    "name": "Guntur Karam",
+    "price": 150,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Powder's/Spice's"
+  },
+  {
+    "id": 12,
+    "name": "Guntur curry Karam",
+    "price": 250,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Powder's/Spice's"
+  },
+  {
+    "id": 13,
+    "name": "Kobbari Karam",
+    "price": 250,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Powder's/Spice's"
+  },
+  {
+    "id": 14,
+    "name": "Nalla Karam",
+    "price": 250,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Powder's/Spice's"
+  },
+  {
+    "id": 15,
+    "name": "Pandu Mirchi Pickle",
+    "price": 180,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Veg Pickles"
+  },
+  {
+    "id": 16,
+    "name": "Tomoto Pickle",
+    "price": 180,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Veg Pickles"
+  },
+  {
+    "id": 17,
+    "name": "Aamla Pickle",
+    "price": 180,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Veg Pickles"
+  },
+  {
+    "id": 18,
+    "name": "Mango Pickle",
+    "price": 180,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Veg Pickles"
+  },
+  {
+    "id": 19,
+    "name": "Lemon Pickle",
+    "price": 180,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Veg Pickles"
+  },
+  {
+    "id": 20,
+    "name": "Chintakya Pickle",
+    "price": 180,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Veg Pickles"
+  },
+  {
+    "id": 21,
+    "name": "Boneless Chicken Pickle",
+    "price": 350,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Non-Veg Pickles"
+  },
+  {
+    "id": 22,
+    "name": "Chicken Pickle (With Bone)",
+    "price": 300,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Non-Veg Pickles"
+  },
+  {
+    "id": 23,
+    "name": "Prawn’s Pickle",
+    "price": 500,
+    "weight": 250,
+    "discount": 0,
+    "image": "",
+    "description": "",
+    "category": "Non-Veg Pickles"
+  }
+]
