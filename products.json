@@ -5,7 +5,7 @@
     "price": 320,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744454074/Dry-fruits-laddu-560x580_o85lrl.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744455437/Dry-fruits-laddu-560x580_o85lrl.jpg",
     "description": "",
     "category": "Sweets"
   },
@@ -15,7 +15,7 @@
     "price": 160,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744452122/bellam_gavvalu_espppm.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744455688/sweet-bellam-gavvalu_sk3t8s.jpg",
     "description": "",
     "category": "Sweets"
   },
@@ -55,7 +55,7 @@
     "price": 200,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744452052/BananaChips_bmlkrh.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744456008/chips_htrgzs.png",
     "description": "",
     "category": "Snacks"
   },
