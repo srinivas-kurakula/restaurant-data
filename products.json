@@ -25,7 +25,7 @@
     "price": 200,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744453179/product-jpeg-1000x1000_triwi0.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744453179/product-jpeg-1000x1000_triwi0.jpg",
     "description": "",
     "category": "Sweets"
   },
@@ -45,7 +45,7 @@
     "price": 340,
     "weight": 500,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744452167/Kajji_Kayalu_ejoexk.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744452167/Kajji_Kayalu_ejoexk.jpg",
     "description": "",
     "category": "Sweets"
   },
@@ -65,7 +65,7 @@
     "price": 130,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744453552/Chakkalu_jkbfnf.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744453552/Chakkalu_jkbfnf.jpg",
     "description": "",
     "category": "Snacks"
   },
@@ -75,7 +75,7 @@
     "price": 130,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744452147/chekralu_p49agc.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744452147/chekralu_p49agc.jpg",
     "description": "",
     "category": "Snacks"
   },
@@ -85,7 +85,7 @@
     "price": 150,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744453647/karamboondi_jnrmd4.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744454289/karamboondi_jnrmd4_xezfvl.jpg",
     "description": "",
     "category": "Snacks"
   },
@@ -95,7 +95,7 @@
     "price": 150,
     "weight": 250,
     "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1744453261/RibbonPakoda_ssnyyu.jpg",
+    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744453261/RibbonPakoda_ssnyyu.jpg",
     "description": "",
     "category": "Snacks"
   },
