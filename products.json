@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "name": "Wheat Flour Bellam Guvvalu",
+    "name": "Wheat Flour Bellam Gavvalu",
     "price": 160,
     "quantity": 0,
     "weights": [
@@ -165,7 +165,7 @@
   },
   {
     "id": 8,
-    "name": "Chakralu/murukulu",
+    "name": "Chakralu/murukulu/janthikalu",
     "price": 130,
     "quantity": 0,
     "weights": [
@@ -357,7 +357,7 @@
   },
   {
     "id": 16,
-    "name": "Tomoto Pickle",
+    "name": "Tomato Pickle",
     "price": 180,
     "quantity": 0,
     "weights": [
@@ -381,7 +381,7 @@
   },
   {
     "id": 17,
-    "name": "Aamla Pickle",
+    "name": "Amla Pickle",
     "price": 180,
     "quantity": 0,
     "weights": [
@@ -453,7 +453,7 @@
   },
   {
     "id": 20,
-    "name": "Chintakya Pickle",
+    "name": "Chintakaya Pickle",
     "price": 180,
     "quantity": 0,
     "weights": [
@@ -520,30 +520,6 @@
    ],
     "discount": 0,
     "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744537762/chickenbone_uydukm.jpg",
-    "description": "",
-    "category": "Non-Veg Pickles"
-  },
-  {
-    "id": 23,
-    "name": "Prawn’s Pickle",
-    "price": 475,
-    "quantity": 0,
-    "weights": [
-       {
-      "label": "250g",
-      "value": 1
-    },
-    {
-      "label": "500g",
-      "value": 2
-    },
-    {
-      "label": "1KG",
-      "value": 4
-    }
-   ],
-    "discount": 0,
-    "image": "https://res.cloudinary.com/drrqq9fki/image/upload/v1744538002/Prawns-Pickle_umzmkk.jpg",
     "description": "",
     "category": "Non-Veg Pickles"
   }
